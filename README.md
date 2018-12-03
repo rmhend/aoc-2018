@@ -1,1 +1,1 @@
-# aoc-2018
+Repo for participating in Advent of Code 2018. Planning on low-key participation as time allows, probably not going to finish.
