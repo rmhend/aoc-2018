@@ -57,3 +57,6 @@ scripts_old
 
 # data
 *.png
+
+# jupyter checkpoints
+*.ipynb_checkpoints
